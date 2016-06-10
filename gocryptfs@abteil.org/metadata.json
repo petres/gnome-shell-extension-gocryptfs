@@ -1,0 +1,10 @@
+{
+	"uuid": "gocryptfs@abteil.org",
+	"name": "gocryptfs",
+	"url": "https://github.com/petres/gnome-shell-extension-gocryptfs",
+	"description": "Mount decrypted gocryptfs folder via system panel. gocryptfs (https://nuetzlich.net/gocryptfs/) has to be installed.",
+	"settings-schema": "org.gnome.shell.extensions.gocryptfs",
+	"shell-version": [
+		"3.20", "3.18", "3.16"
+	]
+}
