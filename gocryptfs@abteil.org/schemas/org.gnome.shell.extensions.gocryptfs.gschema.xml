@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions-gocryptfs">
+	<schema path="/org/gnome/shell/extensions/gocryptfs/" id="org.gnome.shell.extensions.gocryptfs">
+	</schema>
+</schemalist>
